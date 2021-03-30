@@ -1,3 +1,3 @@
 # TravelSalesmanProblem
 
-Scala console application that resolve Travelling Salesman Problem for Polish cites.
+Scala console application that resolves Travelling Salesman Problem for Polish cites.
